@@ -16,3 +16,5 @@ app.use("/student",studentRoutes)
 app.listen(PORT, () => {
     console.log(`Server started at Port:${PORT}`);
 })
+
+//Comment added for testing purpore
